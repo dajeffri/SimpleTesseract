@@ -13,7 +13,7 @@ There are two test images in the Sample Images folder.
 
 ## Screenshot
 
-<img src="Screenshot.png" alt="ScreenShot"/>  
+<img src="Screenshot.PNG" alt="ScreenShot"/>  
 
 ## Built With
 
